@@ -3,39 +3,41 @@
 <br/>
 
 <br />
-<div align="center">
-  <a href="https://github.com/zyx-0314/">
+<div align="left">
+  <a href="https://github.com/NocLi21/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="" width="130" height="100">
+    <img src="https://scontent.fmnl4-7.fna.fbcdn.net/v/t1.15752-9/438312516_765943155599224_1567872312136204559_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=clxPoire1p4Q7kNvgFH0Ff2&_nc_ht=scontent.fmnl4-7.fna&oh=03_Q7cD1QFnhgO7RePI0hr4pXmtBs5OCAjOtMg_ORIFrNkcpPykcQ&oe=66796593" width="150" height="150">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="left">My Resume</h3>
+  <h1 align="left">My Resume</h1>
 </div>
 <!-- TODO: Make a short description -->
 <div align="left">
-  Student 
+  Lian Natividad | OJT Student
+  <br />
+  +63 916 258 4268
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=NocLi21/WD-Activity)
+![](https://visit-counter.vercel.app/counter.png?page=NocLi21/WD-S2-Resume)
 
 ---
 
 <br />
-<br />
+
 
 <!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#overview">Overview</a>
+      <a href="#objective">Objective</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#educational-background">Educational Background</a>
         </li>
         <li>
           <a href="#technology">Technology</a>
@@ -51,26 +53,28 @@
   </ol>
 </details>
 
+<br />
+
 ---
 
-## Overview
+## Objective
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+I am Lian Natividad, an aspiring Programmer and Web Designer. I am quitely good at everything as long as I understand and get the clear instruction of it.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+---
 
 ### Key Components
+
+---
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
 - Parallax transition
 - Transactional
+
+---
 
 ### Technology
 <!-- TODO: List of Technology Used -->
