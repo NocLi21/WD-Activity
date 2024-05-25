@@ -6,7 +6,7 @@
 <div align="left">
   <a href="https://github.com/NocLi21/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="https://scontent.fmnl4-7.fna.fbcdn.net/v/t1.15752-9/438312516_765943155599224_1567872312136204559_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=clxPoire1p4Q7kNvgFH0Ff2&_nc_ht=scontent.fmnl4-7.fna&oh=03_Q7cD1QFnhgO7RePI0hr4pXmtBs5OCAjOtMg_ORIFrNkcpPykcQ&oe=66796593">
+    <img src="https://scontent.fmnl4-7.fna.fbcdn.net/v/t1.15752-9/438312516_765943155599224_1567872312136204559_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=clxPoire1p4Q7kNvgFH0Ff2&_nc_ht=scontent.fmnl4-7.fna&oh=03_Q7cD1QFnhgO7RePI0hr4pXmtBs5OCAjOtMg_ORIFrNkcpPykcQ&oe=66796593" width="150px" height="150px">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h1 align="left">My Resume</h1>
